@@ -1,0 +1,28 @@
+Subnet	Location	Servicing Device	Enviroment
+206.213.198.0/24	HCB Data Centers	any firewall, Universal NAT	Internal
+206.213.199.0/25	MDC GLR	Gateway of Last Resort	Internal
+206.213.199.128/25	WDC GLR	Gateway of Last Resort (backup)	Internal
+206.213.200.0/24	MDC EDMZ NAT	mid-fw-edmz	Internal
+206.213.201.0/24	MDC EDMZ	mid-fw-edmz	Internal
+206.213.202.0/24	MDC EDMZ NAT	mid-fw-edmz	Internal
+206.213.203.0/24	MDC EDMZ NAT	mid-fw-edmz	Internal
+206.213.204.0/24	MDC EDMZ Loopbacks	mid-fw-edmz	Internal
+206.213.205.0/24	MDC Affiliate server farm	midfire19	Internal
+206.213.206.0/24	WDC Affiliate server farm	midfire19	Internal
+206.213.207.0/24	WDC EDMZ	win-fw-edmz	Internal
+206.213.208.0/24	WDC EDMZ	win-fw-edmz	Internal
+206.213.210.0/24	WDC Secure Segment	win-fw-dmz	Internal
+206.213.216.0/24	WDC AVEnue	Firewall internal interfaces	Internal
+206.213.217.0/24	WDC Surf	Firewall internal & server interfaces	Internal
+206.213.219.0/24	WDC EDMZ loopbacks	win-fw-edmz	Internal
+206.213.220.0/24	WDC VPN NAT	win-fw-vpn2	Internal
+206.213.221.0/24	WDC VPN NAT	win-fw-vpn1	Internal
+206.213.226.0/24	PDC Surf	Firewall internal & server interfaces	Internal
+206.213.228.0/24	Middletown CVS DMZ	mid-fw-cvs	Internal
+206.213.229.0/24	Windsorfs CVS DMZ	win-fw-cvs	Internal
+206.213.230.0/24	MDC VPN NAT	mid-fw-vpn2	Internal
+206.213.231.0/24	MDC VPN NAT	mid-fw-vpn1	Internal
+206.213.245.128/25	QA Secure Segment	win-fw-dmz	Internal
+206.213.247.0/24	MDC AVEnue	Firewall internal interfaces	Internal
+206.213.248.0/24	MDC Surf	Firewall internal & server interfaces	Internal
+206.213.252.0/24	MDC Secure Segment	mid-fw-dmz	Internal

@@ -1,0 +1,22 @@
+Subnet	Location	Usage	Servicing Device	Enviroment	Internet
+206.213.192.0/24	Shea DC	PDC external subnet	Firewalls	
+206.213.193.0/24	Shea DC	PDC Office365 & Skype	pdc-fw-services NAT pools, DNS NAT, NAT	Internet
+206.213.196.0/24	Middletown Data Center	MDC Office365 & Skype	mid-fw-services NAT pools	Internet
+206.213.197.0/24	Windsor Data Center	WDC Office365 & Skype	win-fw-services NAT pools	Internet
+206.213.209.0/24	Windsor Data Center	WDC external subnet	Firewalls, vDMZ NAT, B2B-VPN, DNS NAT, NAT	Internet
+206.213.211.0/24	Windsor Data Center	WDC DMZ VIP	win-fw-inetdmz	Internet
+206.213.212.0/24	Windsor Data Center	WDC DMZ VIP	win-fw-inetdmz	Internet
+206.213.213.0/24	Windsor Data Center	WDC DMZ VIP	win-fw-inetdmz	Internet
+206.213.215.0/24	Windsor Data Center	WDC Office Extend	win-fw-officeext  (ClientVPN, SDWAN, Meraki, Aruba)	Internet
+206.213.223.0/24	Windsor Data Center	WDC OpenStack	win-fw-inetdmz	Internet
+206.213.233.0/24	Middletown Data Center	MDC OpenStack	mid-fw-inetdmz	Internet
+206.213.234.0/24	Middletown Data Center	MDC OpenStack	mid-fw-inetdmz	Internet
+206.213.240.0/24	Middletown Data Center	MDC DMZ VIP	mid-fw-inetdmz	Internet
+206.213.241.0/24	Middletown Data Center	MDC DMZ VIP	mid-fw-inetdmz	Internet
+206.213.243.0/24	Middletown Data Center	QA DMZ VIP	mid-fw-perfdmz	Internet
+206.213.244.0/24	Middletown Data Center	QA DMZ VIP	mid-fw-perfdmz	Internet
+206.213.246.0/24	Middletown Data Center	QA DMZ VIP	mid-fw-perfdmz	Internet
+206.213.251.0/24	Middletown Data Center	MDC external subnet	Gateway of Last Resort, Firewalls, vDMZ NAT, B2B-VPN, DNS NAT, NAT	Internet
+206.213.253.0/24	Middletown Data Center	MDC DMZ VIP	mid-fw-inetdmz	Internet
+206.213.254.0/24	Middletown Data Center	MDC Office Extend	mid-fw-officeext  (ClientVPN, SDWAN, Meraki, Aruba, Aironet)	Internet
+206.213.255.0/24	Middletown Data Center	Infrastructure	Loopbacks, Inter-DC links	Internet
