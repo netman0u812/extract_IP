@@ -1,0 +1,9 @@
+23.0.0.0/12,23.0.0.0 - 23.15.255.255,"1,048,576",AS16625,ARIN,Akamai edge (cvs.com delivery)
+104.64.0.0/10,104.64.0.0 - 104.127.255.255,"6,710,886",AS20940,ARIN,Akamai international (CDN for pharmacy sites)
+13.104.0.0/14,13.104.0.0 - 13.107.255.255,"262,144",AS8075,ARIN,AzureCloud (CVS Caremark cloud services)
+20.32.0.0/12,20.32.0.0 - 20.47.255.255,"1,048,576",AS8075,ARIN,AzureCloud (Aetna/CVS integration)
+40.128.0.0/10,40.128.0.0 - 40.191.255.255,"16,777,216",AS8075,ARIN,AzureCloud global (health services)
+52.96.0.0/13,52.96.0.0 - 52.103.255.255,"524,288",AS8075,ARIN,AzureCloud (API endpoints)
+199.42.176.0/22,199.42.176.0 - 199.42.179.255,"1,024",N/A,ARIN,Direct CVS allocation (legacy/internal)
+204.122.0.0/23,204.122.0.0 - 204.122.1.255,512,N/A,ARIN,"Direct CVS (small block, possibly VPN/legacy)"
+204.122.8.0/22,204.122.8.0 - 204.122.11.255,"1,024",N/A,ARIN,Direct CVS (internal networks)

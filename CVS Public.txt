@@ -1,0 +1,15 @@
+CIDR Block,Range Start,Range End,Block Size (IPs),ASN,Registry,Notes/Source,Verified CVS Usage
+12.15.136.0/24,12.15.136.0,12.15.136.255,256,AS7018,ARIN,CVS 3700 reallocation (fw.cvs.com),Firewall / secure access
+12.15.144.0/24,12.15.144.0,12.15.144.255,256,AS7018,ARIN,CVS 3700 reallocation (kiteworks.cvshealth.com),Secure file sharing / portal
+12.46.112.0/24,12.46.112.0,12.46.112.255,256,AS7018,ARIN,CVS 3700 (akcdn-mmc.cvs.com),Media / photo services
+12.46.119.0/24,12.46.119.0,12.46.119.255,256,AS7018,ARIN,CVS 3700 (extportal1.cvs.com),External partner portal
+12.171.214.0/24,12.171.214.0,12.171.214.255,256,AS7018,ARIN,CVS 3700 legacy block,Internal/public endpoints
+156.78.128.0/23,156.78.128.0,156.78.129.255,512,AS18862,ARIN,Omnicare/Coram (CVS Health),Healthcare services
+156.78.130.0/23,156.78.130.0,156.78.131.255,512,AS18862,ARIN,Omnicare/Coram (CVS Health),Healthcare services
+192.160.146.0/24,192.160.146.0,192.160.146.255,256,AS18862,ARIN,Aetna legacy (CVS-acquired),Health insurance services
+204.14.128.0/23,204.14.128.0,204.14.129.255,512,AS18862,ARIN,Omnicare direct allocation,Public endpoints
+204.99.0.0/17,204.99.0.0,204.99.127.255,32768,AS18862,ARIN,Major Omnicare/Aetna block,BGP-announced public services
+23.219.192.0/24,23.219.192.0,23.219.192.255,256,AS16625,ARIN,Akamai edge (cvs.com),Main website delivery
+23.197.32.0/24,23.197.32.0,23.197.32.255,256,AS16625,ARIN,Akamai edge (photo.cvs.com),Photo & flu services
+23.55.214.0/24,23.55.214.0,23.55.214.255,256,AS16625,ARIN,Akamai edge (optical.cvs.com),Vision/optical services
+52.178.17.0/24,52.178.17.0,52.178.17.255,256,AS8075,ARIN,Microsoft Azure (failover),Azure failover for cvs.com
