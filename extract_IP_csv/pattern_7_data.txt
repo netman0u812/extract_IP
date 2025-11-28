@@ -1,0 +1,33 @@
+Network-Cidr	Location Name	Segmentation Sesignation	FW
+10.223.92.0/23	Scottsdale, AZ Shea Data Center	Cloud PCI	azhtrust01-vmss-11, azhtrust01-vmss-12, azhtrust01-vmss-13, azhtrust01-vmss-14
+10.223.94.0/23	Scottsdale, AZ Shea Data Center	Cloud PCI	azhtrust02-vmss-14, azhtrust02-vmss-15, azhtrust02-vmss-16, azhtrust02-vmss-17
+10.113.16.0/24	San Antonio, TX Mail Order		ptxsnmosecintpcimdf-1
+10.18.130.0/23	2100HCD - PCI/PHI/PII Managemnet 	pci	RRICMDC-SEC-INTPCI-01
+10.18.132.0/26	Woonsocket, RI Data CTR 1 CVS	pci	RRIWSCPSECEXTDCOM-1 (ASADCOMOUT01)
+10.18.156.0/23	Cumberland, RI Data Center	pci	RRICMDC-SEC-INTPCI-01
+10.18.158.0/23	Cumberland, RI Data Center	pci	RRICMDC-SEC-INTPCI-01
+10.222.135.0/28	Cumberland, RI Data Center	pci	RRIWSDC-SEC-INTPCIFTD-01
+10.24.48.0/24	Texas	PCI	PTXCMCC-SEC-MDF-PCI-01-PRI
+10.38.69.0/24	Honolulu, HI Mail Order	pci	HOL-SEC-M1A-PCI-01
+10.84.58.0/24	Pittsburgh, PA (RIDC 2)	pci	PIH-SEC-M1A-PCI-01
+10.92.241.192/28	Woonsocket, RI Data Center	pci	RRIWSCP-SEC-INTDCOM-01
+10.92.241.240/28	Woonsocket, RI Data Center	pci	RRIWSCP-SEC-INTDCOM-01
+10.93.128.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.130.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.132.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.134.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.136.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.138.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.148.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.152.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.164.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.208.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.250.0/24	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+10.93.252.0/23	Scottsdale, AZ Shea Data CTR	pci	PAZSHDC-SEC-INTEXP-01
+168.233.112.0/24	Woonsocket, RI Data CTR 1 CVS	pci	RRIWSDC-SEC-EXT-STRAT-01
+198.187.113.0/24	Scottsdale, AZ Shea Data Center	pci	PAZSHDC-SEC-INTPCI-01-vlan113
+198.187.114.0/24	Scottsdale, AZ Shea Data Center	pci	PAZSHDC-SEC-INTPCI-01-vlan114
+204.99.33.0/24	Scottsdale, AZ Shea Data Center	pci	PAZSHDC-SEC-INTPCI-01-vlan33
+204.99.35.0/24	Scottsdale, AZ Shea Data Center	pci	PAZSHDC-SEC-INTPCI-01-vlan35
+10.66.20.192/26	Woonsocket, RI Data Center	pci	RRIWSDC-SEC-INT-SEMA-01-ASA
+10.66.20.64/26	Woonsocket, RI Data Center	pci	RRIWSDC-SEC-INT-SEMA-01-ASA

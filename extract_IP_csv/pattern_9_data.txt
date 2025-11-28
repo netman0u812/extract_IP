@@ -1,0 +1,40 @@
+IP Address Block	Middletown Data Center	DMZ	Comments
+172.31.0.0/16	Middletown Data Center	Affiliate	Offshore
+206.213.205.0/24	Middletown Data Center	Affiliate	Server Farms
+172.29.20.0/24	Middletown Data Center	add.net	Server Farms
+172.29.21.0/24	Middletown Data Center	add.net	Server Farms
+172.29.22.0/24	Middletown Data Center	add.net	Server Farms
+206.213.251.216 (PAT)	Middletown Data Center	add.net	Server Farms
+172.26.0.0/17	Middletown Data Center	ECAN	VM Clients	
+206.213.201.0/24	Middletown Data Center	Ecomm	Partner Network Devices
+206.213.202.0/24	Middletown Data Center	Ecomm	Partner NATs
+206.213.203.0/24	Middletown Data Center	Ecomm	Partner NATs
+172.19.192.0/18	Middletown Data Center	Ecomm	Partner NATs
+157.121.38.0/24	Middletown Data Center	Mobile	App Farm
+157.121.113.0/27	Middletown Data Center	Interoperability	App Farm
+157.121.113.32/27	Middletown Data Center	Interoperability	App Farm
+157.121.113.64/27	Middletown Data Center	Interoperability	App Farm
+167.69.188.192/26	Middletown Data Center	SIP Prod	
+12.213.xxx.xxx	Middletown Data Center		AT&T SIP Trunks
+167.69.189.192/26	Middletown Data Center	SIP Test	
+12.194.xxx.xxx	Middletown Data Center		AT&T SIP Trunks
+32.243.110.48/28	Windsor Data Center	Telepresence	AT&T Telepresence
+172.31.0.0/16	Windsor Data Center	Affiliate	Offshore
+206.213.206.0/24	Windsor Data Center	Affiliate	Server Farms
+172.29.32.0/24	Windsor Data Center	add.net	Server Farms
+172.26.144.0/22	Windsor Data Center	ECAN	VM Clients
+172.26.148.0/22	Windsor Data Center	ECAN	VM Clients
+172.26.152.0/22	Windsor Data Center	ECAN	VM Clients
+206.213.207.0/24	Windsor Data Center	Ecomm	Partner Network Devices
+206.213.208.0/25	Windsor Data Center	Ecomm	Partner NATs
+172.28.192.0/18	Windsor Data Center	Ecomm	Partner NATs
+157.121.39.0/24	Windsor Data Center	Mobile	App Farm
+167.69.113.128/27	Windsor Data Center	Interoperability	App Farm
+167.69.113.160/27	Windsor Data Center	Interoperability	App Farm
+167.69.113.192/27	Windsor Data Center	Interoperability	App Farm
+ 172.29.130.0/24	Windsor Data Center	SA DBAR	SA DBAR
+167.69.190.192/26	Windsor Data Center	SIP Prod	SIP Prod
+12.213.xxx.xxx	Windsor Data Center	AT&T SIP Trunks	AT&T SIP Trunks
+167.69.191.192/26	Windsor Data Center	SIP Test	SIP Test
+12.194.xxx.xxx	Windsor Data Center	AT&T SIP Trunks	AT&T SIP Trunks
+32.243.110.48/28	Windsor Data Center	AT&T Telepresence	AT&T Telepresence

@@ -1,0 +1,67 @@
+	Aetna Use	CVS Use	Plan	Description
+10.0.0/16	Honey Pot		Aetna Giving Up	
+10.1.0/16	Private Subnets		Aetna Giving Up	
+10.2.0/16	LoopBacks		CVS Giving Up	
+10.8.0/16	Uplinks WAN to DS Layer	DataCenter - Legacy Cat6500s	Aetna Giving Up	
+10.10.0/16	Uplinks   	DataCenter - Shea - Servers	Aetna Giving Up	
+10.11.0/16	MPLS PE-CE		Aetna Giving Up	
+10.13.0/16	Uplinks		CVS Giving Up	
+10.16.0/16	AT&T Injected to MPLS		Aetna Giving Up	
+10.21.0/16	CVTY Data Center		Aetna Giving Up	No Conflict
+10.23.0/16	Remote - CVTY Scanner	Not In use	Aetna Giving Up	
+10.27.0/16	CDC DataCenter		Phase2	Needs further assessment  (Geof and Richard)
+10.30.0/16	Cranberry Data Center		Aetna Giving Up	
+10.31.0/16	Network /30 Uplinks (International MPLS)		Aetna Giving Up	
+10.42.0/16	DataCenter - PDCHS		CVS Giving Up	6 Blocks in conflict
+10.43.0/16	DataCenter - PDCHS		CVS Giving Up	23 Blocks in conflict
+10.44.0/16	DataCenter - CVTY		CVS Giving Up	
+10.45.0/16	DataCenter - CVTY		Phase2	Needs further assessment  (Geof and Richard)
+10.55.0/16	DataCenter - Servers		CVS Giving Up	29 Blocks in conflict
+10.84.0/16	DataCenter - VDI - DaaS		Aetna Giving Up	Aetna remediation is underway (Low Risk Conflict) (Resume July 11 - Complete by Oct 31st)
+10.85.0/16	DataCenter - VDI - DaaS		Aetna Giving Up	Aetna remediation is underway (Low Risk Conflict) (Resume July 11 - Complete by Oct 31st)
+10.86.0/16	DataCenter - VDI - DaaS		Aetna Giving Up	No Conflict - But Aetna will still vacate
+10.87.0/16	DataCenter - VDI - DaaS		Aetna Giving Up	Aetna remediation is underway (Low Risk Conflict) (Resume July 11 - Complete by Oct 31st)
+10.88.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	Much Remediation already complete - This Infra is being refreshed and the Ips will retire with the refresh by the VDI Team - Complete by Change Freeze
+10.89.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	No Conflict
+10.90.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	No Conflict
+10.91.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	No Conflict
+10.92.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	Much Remediation already complete - This Infra is being refreshed and the Ips will retire with the refresh by the VDI Team - Complete by Change Freeze
+10.93.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	
+10.94.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	Much Remediation already complete - This Infra is being refreshed and the Ips will retire with the refresh by the VDI Team - Complete by Change Freeze
+10.95.0/16	DataCenter - VDI - XenApp		Aetna Giving Up	No Conflict
+10.96.0/16	DataCenter - iTriage		CVS Giving Up	
+10.97.0/16	DataCenter - WLC		Aetna Giving Up	
+10.98.0/16	Cranberry Data Center		Aetna Giving Up	
+10.101.0/16	DataCenter - Misc Subnets		CVS Giving Up	
+10.102.0/16	DataCenter - Meraki		CVS Giving Up	
+10.103.0/16	DataCenter - PDC - Servers		CVS Giving Up	
+10.104.0/16	DataCenter - PBX 		CVS Giving Up	
+10.105.0/16	DataCenter - PBX		CVS Giving Up	
+10.106.0/16	Remote Firewall Ranges		CVS Giving Up	No Conflict (as of 6/26)
+10.107.0/16	Remote Firewall Ranges		CVS Giving Up	No Conflict (as of 6/26)
+10.109.0/16	Remote Firewall Ranges		CVS Giving Up	
+10.112.0/16	Remote WiFi		Aetna Giving Up	Aetna remediation is underway (Low Risk Conflict) - Part of Cat9300 Rollout 
+10.113.0/16	Remote WiFi		Aetna Giving Up	Aetna remediation is underway (Low Risk Conflict) - Part of Cat9300 Rollout - This "MAY" extend into 2021 due to COVID19
+10.114.0/16	Hartford - WiFi		Aetna Giving Up	No Conflict
+10.124.0/16	WLAN VLANs - All-In-One		Aetna Giving Up	
+10.125.0/16	Cranberry Data Center		Aetna Giving Up	
+10.128.0/16	Remote - B2B		Aetna Giving Up	No Conflict
+10.131.0/16	Farm VLANs		Aetna Giving Up	
+10.136.0/16	DataCenter - PDC		Aetna Giving Up	No Conflict
+10.154.0/16	Farm VLANs - Nano Sites		Aetna Giving Up	
+10.156.0/16	Farm VLANs - All-In-One		Aetna Giving Up	
+10.160.0/16	Data VLANs		Aetna Giving Up	
+10.184.0/16	Hartford - Data		CVS Giving Up	Flip this around - CVS to Give Up
+10.186.0/16	Bluebell-Data		CVS Giving Up	Flip this around - CVS to Give Up - Aetna will still vacate on Oct 6th
+10.188.0/16	Data VLANs - All-In-One		Aetna Giving Up	
+10.192.0/16	Voice VLANs		Aetna Giving Up	
+10.193.0/16	Voice VLANs		Aetna Giving Up	
+10.194.0/16	Remote - VOIP		Aetna Giving Up	No Conflict
+10.195.0/16	Remote - VOIP		Aetna Giving Up	Aetna remediation is underway (Low Risk Conflict) - Linked to Cat9300 Rollout - This "MAY" extend into 2021 to COVID19
+10.199.0/16	Voice VLANs		Aetna Giving Up	
+10.208.0/16	DataCenter - Cloud		CVS Giving Up	
+10.209.0/16	DataCenter - Cloud		Aetna Giving Up	Azure POC VPC - Customer is in the process of vacating this Vnet
+10.210.0/16	DataCenter - Cloud		CVS Giving Up	97 Conflicts - CVS Anyconnect pool
+10.218.0/16	Bluebell-VOIP		Aetna Giving Up	Linked to 186 Network - One Site - Planned for October 6th ****
+10.220.0/16	Voice VLANs - All-In-One		Aetna Giving Up	
+10.222.0/16	DataCenter - Cloud		Aetna Giving Up	

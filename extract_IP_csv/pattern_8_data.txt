@@ -1,0 +1,21 @@
+206.213.233.0/24	Middletown Data Center	Tenant Public NATs	F5 VIPs
+206.213.234.0/24	Middletown Data Center		F5 VIPs
+172.16.36.0/24	Middletown Data Center	Internal VIPs	Infra
+172.16.37.0/24	Middletown Data Center	Service Domain	Infra
+172.16.38.0/24	Middletown Data Center	ESX Management	Infra
+172.16.39.0/24	Middletown Data Center	OpenStack Management	Infra
+172.16.40.0/21	Middletown Data Center	Tenants	Tenants
+206.213.223.0/24	Windsor Data Center	Tenant Public NATs	F5 VIPs
+172.16.52.0/24	Windsor Data Center	Internal VIPs	Infra
+172.16.53.0/24	Windsor Data Center	Service Domain	Infra
+172.16.54.0/24	Windsor Data Center	ESX Management	Infra
+172.16.55.0/24	Windsor Data Center	OpenStack Management	Infra
+172.16.56.0/21	Windsor Data Center	Tenants	Tenants
+172.19.19.0/24	Middletown Data Center	TSOUT	
+172.29.60.0/25	Middletown Data Center	VDI (vmdmz)	VM Clients
+172.26.24.0/22	Middletown Data Center	ASH	Aetna Student Health
+172.19.12.48/29	Middletown Data Center	SecureWorks	Dell Secure Works
+172.19.12.32/29	Middletown Data Center	ISBC	ACME Session Border Controller
+172.27.0.0/16	Middletown Data Center	VizNet	Guest Network
+172.28.12.48/29	Windsor Data Center	SecureWorks	SecureWorks
+172.28.12.88/29	Windsor Data Center	ISBC	ISBC
